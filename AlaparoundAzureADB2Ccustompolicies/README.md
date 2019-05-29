@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Presentation to the Azure Lunchtime Meetup on Azure AD B2C custom policies
 
-You can use the [editor on GitHub](https://github.com/rbrayb/Presentations/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Meetup](https://www.meetup.com/Auckland-Azure-Lunchtime-Meetup/events/260558096/)
+
+### Slides 
+
+[pptx](https://rbrayb.github.io/Presentations/AlaparoundAzureADB2Ccustompolicies/Slidedeck/AADB2Ccustompolicies.pptx)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
