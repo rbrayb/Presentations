@@ -4,7 +4,7 @@
 
 ### Slides 
 
-[pptx](https://rbrayb.github.io/Presentations/AlaparoundAzureADB2Ccustompolicies/Slidedeck/AADB2Ccustompolicies.pptx)
+[pptx](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Slide-deck/AAD-B2C-custom-policies.pptx)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
