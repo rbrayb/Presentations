@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TrustFrameworkPolicy 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+  xmlns="http://schemas.microsoft.com/online/cpim/schemas/2013/06" 
+  PolicySchemaVersion="0.3.0.0" 
+  TenantId="my-b2c-tenant.onmicrosoft.com" 
+  PolicyId="B2C_1A_TrustFrameworkExtensions" 
+  PublicPolicyUri="http://my-b2c-tenant.onmicrosoft.com/B2C_1A_TrustFrameworkExtensions">
+
+	<BasePolicy>
+		<TenantId>my-b2c-tenant.onmicrosoft.com</TenantId>
+		<PolicyId>B2C_1A_TrustFrameworkBase</PolicyId>
+	</BasePolicy>
+	<BuildingBlocks>
+		<ClaimsSchema>
+			<ClaimType Id="pwnedPasswordResult">
+				<DisplayName>Password Result</DisplayName>
+				<DataType>boolean</DataType>
+				<AdminHelpText>Invalid pwned password</AdminHelpText>
+				<UserHelpText>Invalid pwned password</UserHelpText>
+			</ClaimType>
+
+		</ClaimsSchema>
+
+	</BuildingBlocks>
+
+	<ClaimsProviders>
+
+
+		<ClaimsProvider>
+			<DisplayName>Local Account SignIn</DisplayName>
+			<TechnicalProfiles>
+				<TechnicalProfile Id="login-NonInteractive">
+					<Metadata>
+						<Item Key="client_id">my-client-id</Item>
+						<Item Key="IdTokenAudience">my-idtokenaudience</Item>
+					</Metadata>
+					<InputClaims>
+						<InputClaim ClaimTypeReferenceId="client_id" DefaultValue="9970e372-9145-4373-881e-a54c51238f04" />
+						<InputClaim ClaimTypeReferenceId="resource_id" PartnerClaimType="resource" DefaultValue="2ef185ec-0cc3-4b51-8347-070b367586dc" />
+					</InputClaims>
+				</TechnicalProfile>
+			</TechnicalProfiles>
+		</ClaimsProvider>
+
+
+
+		<ClaimsProvider>
+			<DisplayName>REST APIs</DisplayName>
+			<TechnicalProfiles>
+
+				<!-- Custom Restful service -->
+				<TechnicalProfile Id="REST-API-PwnedPassword">
+					<DisplayName>Validate user's password</DisplayName>
+					<Protocol Name="Proprietary" Handler="Web.TPEngine.Providers.RestfulProvider, Web.TPEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+					<Metadata>
+						<Item Key="ServiceUrl">https://my-api.azurewebsites.net/api/Identity/CheckPassword</Item>
+						<Item Key="AuthenticationType">None</Item>
+						<Item Key="SendClaimsIn">QueryString</Item>
+						<Item Key="AllowInsecureAuthInProduction">true</Item>
+					</Metadata>
+					<InputClaims>
+						<InputClaim ClaimTypeReferenceId="NewPassword" PartnerClaimType="password" />        
+					</InputClaims>
+					<OutputClaims>
+						<OutputClaim ClaimTypeReferenceId="pwnedPasswordResult" />
+					</OutputClaims>
+					<UseTechnicalProfileForSessionManagement ReferenceId="SM-Noop" />
+				</TechnicalProfile>
+
+				<!-- Change LocalAccountSignUpWithLogonEmail technical profile to support your validation technical profile -->
+				<TechnicalProfile Id="LocalAccountSignUpWithLogonEmail">
+					<OutputClaims>
+						<OutputClaim ClaimTypeReferenceId="newPassword" PartnerClaimType="newPassword" />
+					</OutputClaims>
+					<ValidationTechnicalProfiles>
+						<ValidationTechnicalProfile ReferenceId="REST-API-PwnedPassword" />
+					</ValidationTechnicalProfiles>
+				</TechnicalProfile>
+			</TechnicalProfiles>
+		</ClaimsProvider>
+
+	</ClaimsProviders>
+
+	<!-- <UserJourneys>
+
+		<UserJourney Id="PasswordResetPwned">
+			<OrchestrationSteps>
+				<OrchestrationStep Order="1" Type="ClaimsExchange">
+					<ClaimsExchanges>
+						<ClaimsExchange Id="PasswordResetUsingEmailAddressExchange" TechnicalProfileReferenceId="LocalAccountDiscoveryUsingEmailAddress" />
+					</ClaimsExchanges>
+				</OrchestrationStep>
+				<OrchestrationStep Order="2" Type="ClaimsExchange">
+					<ClaimsExchanges>
+						<ClaimsExchange Id="NewCredentials" TechnicalProfileReferenceId="LocalAccountWritePasswordUsingObjectId" />
+					</ClaimsExchanges>
+				</OrchestrationStep>
+				<OrchestrationStep Order="3" Type="SendClaims" CpimIssuerTechnicalProfileReferenceId="JwtIssuer" />
+			</OrchestrationSteps>
+			<ClientDefinition ReferenceId="DefaultWeb" />
+		</UserJourney>    
+
+	</UserJourneys> -->
+
+</TrustFrameworkPolicy>
