@@ -2,6 +2,10 @@
 
 [Meetup](https://www.meetup.com/Auckland-Azure-Lunchtime-Meetup/events/260558096/)
 
+### Blog post
+
+[Medium]()
+
 ### Slides 
 
 [pptx](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Slide-deck/AAD-B2C-custom-policies.pptx)
@@ -25,5 +29,8 @@
 - [TrustFrameworkBase](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/TrustFrameworkBase.xml)
 - [TrustFrameworkExtensions.xml](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/TrustFrameworkExtensions.xml) 
 
+### Other
+
+[Tips and tricks for working with custom policies in Azure AD B2C](https://medium.com/the-new-control-plane/tips-and-tricks-for-working-with-custom-policies-in-azure-ad-b2c-eb63b508a075)
 
 
