@@ -6,6 +6,27 @@
 
 [pptx](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Slide-deck/AAD-B2C-custom-policies.pptx)
 
+### API code
+
+[Integrate REST API claims exchanges in your Azure AD B2C user journey as validation of user input](https://docs.microsoft.com/en-us/azure/active-directory-b2c/active-directory-b2c-custom-rest-api-netfw)
+
+- [Identity Controller](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/API/Controllers/IdentityController.cs)
+
+### Models
+
+- [B2CResponseContent](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/API/Models/B2CResponseContent.cs) 
+- [OutputClaimsModel](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/API/Models/OutputClaimsModel.cs) 
+
+### Custom policies
+
+- [PasswordReset](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/PasswordReset.xml)
+- [ProfileEdit](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/ProfileEdit.xml)
+- [SignUpOrSignin](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/SignUpOrSignin)
+- [TrustFrameworkBase](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/TrustFrameworkBase.xml)
+- [TrustFrameworkExtensions.xml](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/TrustFrameworkExtensions.xml) 
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
