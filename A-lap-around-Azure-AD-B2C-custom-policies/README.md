@@ -27,7 +27,7 @@
 - [ProfileEdit](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/ProfileEdit.xml)
 - [SignUpOrSignin](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/SignUpOrSignin)
 - [TrustFrameworkBase](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/TrustFrameworkBase.xml)
-- [TrustFrameworkExtensions.xml](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/TrustFrameworkExtensions.xml) 
+- [TrustFrameworkExtensions](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Custom-policies/TrustFrameworkExtensions.xml) 
 
 ### Other
 
