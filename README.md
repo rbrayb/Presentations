@@ -1,8 +1,3 @@
----
-title: Rory Braybrook's presentations
-layout: post
----
-
 # Welcome to my presentations
 
 This is a list of all my presentations including supporting collateral.
