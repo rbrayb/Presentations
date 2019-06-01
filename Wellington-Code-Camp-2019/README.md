@@ -4,7 +4,7 @@
 
 ### Slides 
 
-[pptx](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2019/Lovelace-and-Babbage.pptx)
+[Lovelace and Babbage and the dawn of computing](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2019/Lovelace-and-Babbage.pptx)
 
 
 

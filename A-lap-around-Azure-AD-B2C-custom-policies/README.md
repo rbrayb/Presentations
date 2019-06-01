@@ -8,7 +8,7 @@
 
 ### Slides 
 
-[pptx](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Slide-deck/AAD-B2C-custom-policies.pptx)
+[A lap around Azure AD B2C custom policies](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/Slide-deck/AAD-B2C-custom-policies.pptx)
 
 ### API code
 

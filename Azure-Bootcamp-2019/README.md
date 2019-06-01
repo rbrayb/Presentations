@@ -4,5 +4,5 @@
 
 ### Slides 
 
-[pptx](https://rbrayb.github.io/Presentations/Azure-Bootcamp-2019/AAD-Identity-is-the-new-control-plane.pptx)
+[AAD - Identity is the new control plane](https://rbrayb.github.io/Presentations/Azure-Bootcamp-2019/AAD-Identity-is-the-new-control-plane.pptx)
 
