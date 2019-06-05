@@ -4,7 +4,7 @@
 
 ### Blog post
 
-[Medium]()
+[Medium](https://medium.com/the-new-control-plane/validating-the-user-password-selection-in-azure-ad-b2c-by-invoking-troy-hunts-pwned-passwords-fbb044b26698)
 
 ### Slides 
 

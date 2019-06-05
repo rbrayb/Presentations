@@ -21,3 +21,8 @@ This is a list of all my presentations including supporting collateral.
 ### Presentation to the Wellington Code Camp 2018
 
 [The Apollo Guidance Computer](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2018)
+
+### Presentation to the Auckland Azure User Group 2018
+
+[Goodbye ADFS](https://rbrayb.github.io/Presentations/Goodbye-ADFS/Goodbye-ADFS.pptx)
+
