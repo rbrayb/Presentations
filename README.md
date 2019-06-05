@@ -26,3 +26,11 @@ This is a list of all my presentations including supporting collateral.
 
 [Goodbye ADFS](https://rbrayb.github.io/Presentations/Goodbye-ADFS)
 
+## 2013
+
+## Presentation to TechEd NZ 2013
+
+[Identity and Windows Azure](https://rbrayb.github.io/Presentations/Identity-and-Windows-Azure)
+
+
+
