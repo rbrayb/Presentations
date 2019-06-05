@@ -6,3 +6,6 @@
 
 [AAD - Identity is the new control plane](https://rbrayb.github.io/Presentations/Azure-Bootcamp-2019/AAD-Identity-is-the-new-control-plane.pptx)
 
+### Collateral
+
+[Links and labs](https://rbrayb.github.io/global-azure-bootcamp-iam-2019)
