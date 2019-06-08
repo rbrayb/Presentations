@@ -26,7 +26,7 @@ This is a list of all my presentations including supporting collateral.
 
 [Goodbye ADFS](https://rbrayb.github.io/Presentations/Goodbye-ADFS)
 
-## Presentation to the Azure Global Bootcamp - Auckland 2018
+### Presentation to the Azure Global Bootcamp - Auckland 2018
 
 [Global Azure Bootcamp](https://rbrayb.github.io/Presentations/Azure-Bootcamp-2018)
 
