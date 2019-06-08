@@ -26,6 +26,18 @@ This is a list of all my presentations including supporting collateral.
 
 [Goodbye ADFS](https://rbrayb.github.io/Presentations/Goodbye-ADFS)
 
+## 2016
+
+## Presentation to Ignite NZ 2016
+
+[Integrating-OpenID-Connect-&-OAuth2-with-Azure-AD-and-ADFS](https://rbrayb.github.io/Presentations/Integrating-OpenID-Connect-&-OAuth2-with-Azure-AD-and-ADFS.pptx)
+
+## 2015
+
+### Presentation to Ignite NZ 2015
+
+[101 ways to authenticate with Azure Active Directory](https://rbrayb.github.io/Presentations/101-ways-to-authenticate-with-Azure-AD/101-ways-to-authenticate-with-Azure-Active-Directory.pptx)
+
 ## 2013
 
 ### Presentation to TechEd NZ 2013
