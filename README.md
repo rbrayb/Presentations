@@ -32,6 +32,8 @@ This is a list of all my presentations including supporting collateral.
 
 [Integrating OpenID Connect & OAuth2 with Azure AD and ADFS](https://rbrayb.github.io/Presentations/Integrating-OpenID-Connect-&-OAuth2-with-Azure-AD-and-ADFS)
 
+[A lap around Azure Active Directory Business to Consumer (B2C)](https://rbrayb.github.io/Presentations/A-lap-around-AAD-B2C)
+
 ## 2015
 
 ### Presentation to Ignite NZ 2015
