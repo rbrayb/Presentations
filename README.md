@@ -46,12 +46,6 @@ This is a list of all my presentations including supporting collateral.
 
 [101 ways to authenticate with Azure Active Directory](https://rbrayb.github.io/Presentations/101-ways-to-authenticate-with-Azure-AD)
 
-## 2014
-
-## Presentation to TechEd NZ 2014
-
-[A Mobile Journey – Cross-device integration with Azure and Office 365](https://rbrayb.github.io/Presentations/A-Mobile-Journey)
-
 ## 2013
 
 ### Presentation to TechEd NZ 2013
