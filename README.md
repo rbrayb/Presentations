@@ -50,7 +50,7 @@ This is a list of all my presentations including supporting collateral.
 
 ## Presentation to TechEd NZ 2014
 
-[A Mobile Journey – Cross-device integration with Azure and Office 365](https://rbrayb.github.io/Presentations/A-Mobile-Journey/A-Mobile-Journey–Cross-device-integration-with-Azure-and-Office-365.pptx)
+[A Mobile Journey – Cross-device integration with Azure and Office 365](https://rbrayb.github.io/Presentations/A-Mobile-Journey)
 
 ## 2013
 
