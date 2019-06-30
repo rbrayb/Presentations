@@ -6,7 +6,7 @@ This is a list of all my presentations including supporting collateral.
 
 ## 2019
 
-### Presentation to the Azure Lunchtime Meetup on Azure AD B2C custom policies
+### Presentation to the Azure Lunchtime Meetup - Auckland 2019
 
 [A lap around Azure AD B2C custom policies](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/)
 
