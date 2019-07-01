@@ -1,4 +1,6 @@
-## Presentation to Ignite NZ 2016
+## Presentation to Ignite NZ 2016 and North Shore UG
+
+[NSUG](http://northshore.netusergroup.org.nz/Meeting/Meetup/?id=M20161020)
 
 ### Slides 
 

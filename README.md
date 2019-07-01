@@ -34,7 +34,7 @@ This is a list of all my presentations including supporting collateral.
 
 ## 2016
 
-### Presentation to Ignite NZ 2016
+### Presentation to Ignite NZ 2016 and North Shore UG
 
 [Integrating OpenID Connect & OAuth2 with Azure AD and ADFS](https://rbrayb.github.io/Presentations/Integrating-OpenID-Connect-&-OAuth2-with-Azure-AD-and-ADFS)
 
@@ -62,9 +62,14 @@ This is a list of all my presentations including supporting collateral.
 
 ## 2013
 
-### Presentation to TechEd NZ 2013
+### Presentation to TechEd NZ 2013 and North Shore UG
 
 [Identity and Windows Azure](https://rbrayb.github.io/Presentations/Identity-and-Windows-Azure)
 
+## 2012
+
+### Presentation to the North Shore UG - North Shore 2012
+
+[Claims Based Identity](https://rbrayb.github.io/Presentations/Claims-Based-Identity/Introducing-Claims-Based-Identity.pptx)
 
 

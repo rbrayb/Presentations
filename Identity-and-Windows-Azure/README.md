@@ -1,4 +1,6 @@
-## Presentation to TechEd NZ 2013
+## Presentation to TechEd NZ 2013 and North Shore UG
+
+[NSUG](http://northshore.netusergroup.org.nz/Meeting/Meetup/?id=M20130926)
 
 ### Slides 
 
