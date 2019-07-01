@@ -2,4 +2,15 @@
 
 ### Slides
 
-[A Mobile Journey – Cross device integration with Azure and O365](https://rbrayb.github.io/Presentations/A-Mobile-Journey/A-Mobile-Journey.pptx)
+[A lap around Azure Active Directory Business to Consumer (B2C)](https://rbrayb.github.io/Presentations/A-lap-around-AAD-B2C/A-lap-around-AAD-B2C.pptx)
+
+sdff
+srg
+srgf
+gr
+drgjkerohgipuerhpiuhawefhipaweufhiuasehfipaueiuasehifhusdiufhiasdhf
+fsdfasdf
+af
+df
+dsf
+sdf
