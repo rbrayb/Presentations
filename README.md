@@ -2,7 +2,9 @@
 
 This is a list of all my presentations including supporting collateral.
 
-[About](About.md)
+They hosted on [Github pages](https://rbrayb.github.io/Presentations/) 
+
+[About me](About.md)
 
 ## 2019
 
