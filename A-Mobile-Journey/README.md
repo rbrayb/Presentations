@@ -2,7 +2,7 @@
 
 ### Slides
 
-[A lap around Azure Active Directory Business to Consumer (B2C)](https://rbrayb.github.io/Presentations/A-lap-around-AAD-B2C/A-lap-around-AAD-B2C.pptx)
+[A Mobile Journey – Cross-device integration with Azure and Office 365](https://rbrayb.github.io/Presentations/A-lap-around-AAD-B2C/A-lap-around-AAD-B2C.pptx)
 
 sdff
 srg
