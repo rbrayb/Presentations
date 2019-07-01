@@ -40,6 +40,10 @@ This is a list of all my presentations including supporting collateral.
 
 [A lap around Azure Active Directory Business to Consumer (B2C)](https://rbrayb.github.io/Presentations/A-lap-around-AAD-B2C)
 
+### Presentation to the Auckland Azure User Group 2016
+
+[ADFS 4.0 with Device Profile](https://rbrayb.github.io/Presentations/ADFS-4-with-Device-Profile)
+
 ## 2015
 
 ### Presentation to Ignite NZ 2015
