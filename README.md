@@ -70,6 +70,6 @@ This is a list of all my presentations including supporting collateral.
 
 ### Presentation to the North Shore UG - North Shore 2012
 
-[Claims Based Identity](https://rbrayb.github.io/Presentations/Claims-Based-Identity/Introducing-Claims-Based-Identity.pptx)
+[Claims Based Identity](https://rbrayb.github.io/Presentations/Claims-Based-Identity)
 
 
