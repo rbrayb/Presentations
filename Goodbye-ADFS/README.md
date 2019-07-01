@@ -1,6 +1,6 @@
 ## Presentation to the Auckland Azure User Group 2018
 
-[Azure UG](https://www.meetup.com/Auckland-Azure-Usergroup/)
+[Azure UG](https://www.meetup.com/Auckland-Azure-Usergroup/events/252495225/)
 
 ### Slides 
 

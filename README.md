@@ -46,6 +46,10 @@ This is a list of all my presentations including supporting collateral.
 
 [101 ways to authenticate with Azure Active Directory](https://rbrayb.github.io/Presentations/101-ways-to-authenticate-with-Azure-AD)
 
+### Presentation to the Auckland Azure User Group 2015
+
+[Azure Active Directory for non developers](https://rbrayb.github.io/Presentations/Azure-Active-Directory-for-non-developers)
+
 ## 2014
 
 ### Presentation to TechEd NZ 2014
