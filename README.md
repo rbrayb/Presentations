@@ -22,9 +22,9 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2018
 
-### Presentation to the Auth0 Online Meetup
+### Presentation to the Auth0 Online Meetup 2018
 
-[OAuth, OpenID Connect, and SAML 2.0](https://rbrayb.github.io/Presentations/auth0-saml)
+[OAuth, OpenID Connect, and SAML 2.0](https://rbrayb.github.io/Presentations/Auth0-Saml)
 
 ### Presentation to the Wellington Code Camp 2018
 
@@ -40,7 +40,7 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2016
 
-### Presentation to Ignite NZ 2016 and North Shore UG
+### Presentation to Ignite NZ 2016 and North Shore UG 2016
 
 [Integrating OpenID Connect & OAuth2 with Azure AD and ADFS](https://rbrayb.github.io/Presentations/Integrating-OpenID-Connect-&-OAuth2-with-Azure-AD-and-ADFS)
 
@@ -68,7 +68,7 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2013
 
-### Presentation to TechEd NZ 2013 and North Shore UG
+### Presentation to TechEd NZ 2013 and North Shore UG 2013
 
 [Identity and Windows Azure](https://rbrayb.github.io/Presentations/Identity-and-Windows-Azure)
 

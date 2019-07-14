@@ -4,6 +4,6 @@
 
 ### Slides
 
-[OAuth, OpenID Connect, and SAML 2.0](https://rbrayb.github.io/Presentations/auth0-saml/auth0-saml.pptx)
+[OAuth, OpenID Connect, and SAML 2.0](https://rbrayb.github.io/Presentations/Auth0-Saml/Auth0-Saml.pptx)
 
 
