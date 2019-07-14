@@ -22,7 +22,7 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2018
 
-### Presentation to the Auth0 Online Meetup on SAML
+### Presentation to the Auth0 Online Meetup
 
 [OAuth, OpenID Connect, and SAML 2.0](https://rbrayb.github.io/Presentations/auth0-saml)
 
