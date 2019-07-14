@@ -24,7 +24,7 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ### Presentation to the Auth0 Online Meetup 2018
 
-[OAuth, OpenID Connect, and SAML 2.0](https://rbrayb.github.io/Presentations/Auth0-Saml)
+[OAuth, OpenID Connect, and SAML 2.0](https://rbrayb.github.io/Presentations/Auth0-SAML)
 
 ### Presentation to the Wellington Code Camp 2018
 
