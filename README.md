@@ -8,6 +8,10 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2019
 
+### Presentation to the Auckland Azure User Group on WebAuthn 2019
+
+[WebAuthn](https://rbrayb.github.io/Presentations/WebAuthn)
+
 ### Presentation to the Azure Lunchtime Meetup - Auckland 2019
 
 [A lap around Azure AD B2C custom policies](https://rbrayb.github.io/Presentations/A-lap-around-Azure-AD-B2C-custom-policies/)
