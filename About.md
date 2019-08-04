@@ -2,6 +2,8 @@
 
 I'm an Identity and Access Management Architect working in the Microsoft Identity space.
 
+I'm a Microsoft MVP (Enterprise mobility) and I'm also the P-TSP for ADFS and Azure AD for Microsoft NZ in Auckland.
+
 I deliver systems based mainly on the Microsoft Identity stack:
 
 - Azure AD
@@ -12,8 +14,6 @@ I deliver systems based mainly on the Microsoft Identity stack:
 - MSAL
 - WIF
 - Other stacks when appropriate e.g. identityserver / Auth0
-
-I'm the P-TSP for ADFS and Azure AD for Microsoft NZ in Auckland.
 
 I have an absolute passion for evangelising Identity.
 

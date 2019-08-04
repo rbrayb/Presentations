@@ -8,7 +8,8 @@
     "\\Auth0-SAML",
     "\\Azure-Active-Directory-for-non-developers",
     "\\Goodbye-ADFS",
-    "\\Identity-and-Windows-Azure"
+    "\\Identity-and-Windows-Azure",
+    "\\WebAuthn"
   ],
   "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
