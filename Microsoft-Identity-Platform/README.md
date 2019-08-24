@@ -4,6 +4,6 @@
 
 ### Slides
 
-[Microsoft Identity Platform](https://rbrayb.github.io/Microsoft-Identity-Platform/Microsoft-Identity-Platform.pptx)
+[Microsoft Identity Platform](https://rbrayb.github.io/Presentations/Microsoft-Identity-Platform/Microsoft-Identity-Platform.pptx)
 
 

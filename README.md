@@ -8,7 +8,7 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2019
 
-## Presentation to the North Shore .NET User Group 2019
+### Presentation to the North Shore .NET User Group 2019
 
 [Microsoft Identity Platform](https://rbrayb.github.io/Presentations/Microsoft-Identity-Platform)
 
