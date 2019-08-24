@@ -1,6 +1,6 @@
 ## Presentation to the North Shore .NET User Group 2019
 
-[Meetup](https://www.meetup.com/North-Shore-NET-User-Group/events/264119521/)
+[Meetup](https://www.meetup.com/North-Shore-NET-User-Group/events/264119521/) 
 
 ### Slides
 
