@@ -1,4 +1,4 @@
-## Presentation to the Auckland Azure User Group on WebAuthn
+## Presentation to the Auckland Azure User Group
 
 [Meetup](https://www.meetup.com/Auckland-Azure-Usergroup/events/263057196/)
 
