@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\101-ways-to-authenticate-with-Azure-AD",
-    "\\A-lap-around-AAD-B2C",
     "\\A-Mobile-Journey",
     "\\ADFS-4-with-Device-Profile",
     "\\Auth0-SAML",
     "\\Azure-Active-Directory-for-non-developers",
+    "\\Azure-Active-Directory-for-non-developers-PBI",
     "\\Goodbye-ADFS",
     "\\Identity-and-Windows-Azure",
+    "\\Microsoft-Identity-Platform",
     "\\WebAuthn"
   ],
-  "SelectedNode": "\\Azure-Active-Directory-for-non-developers\\README.md",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
