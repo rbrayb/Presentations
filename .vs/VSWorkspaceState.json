@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\A-Mobile-Journey",
     "\\ADFS-4-with-Device-Profile",
     "\\Auth0-SAML",
     "\\Azure-Active-Directory-for-non-developers",
@@ -9,6 +8,7 @@
     "\\Goodbye-ADFS",
     "\\Identity-and-Windows-Azure",
     "\\Microsoft-Identity-Platform",
+    "\\Microsoft-Identity-Platform-Pt2",
     "\\WebAuthn"
   ],
   "SelectedNode": "\\.gitignore",
