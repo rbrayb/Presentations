@@ -8,6 +8,10 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2019
 
+### Presentation to the Auckland Data Insight and Power BI User Group 2019
+
+[Azure Active Directory for non developers PBI](https://rbrayb.github.io/Presentations/Azure-Active-Directory-for-non-developers-PBI)
+
 ### Presentation to the Auckland .NET User Group 2019
 
 [Microsoft Identity Platform 2](https://rbrayb.github.io/Presentations/Microsoft-Identity-Platform-Pt2)
