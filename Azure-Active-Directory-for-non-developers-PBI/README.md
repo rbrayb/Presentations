@@ -6,6 +6,8 @@
 
 [Azure Active Directory for non developers PBI](https://rbrayb.github.io/Presentations/Azure-Active-Directory-for-non-developers-PBI/Azure-AD-for-non-developers-pbi.pptx)
 
+[Microsoft Cybersecurity Reference Architecture (MCRA)](https://aka.ms/mcra)
+
 
 
 
