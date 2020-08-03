@@ -10,7 +10,7 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ### Presentation to the Christchurch Azure Evening Meetup 2020
 
-[The-Microsoft-Identity-jigsaw-putting-the-pieces-together](https://rbrayb.github.io/Presentations/The-Microsoft-Identity-jigsaw-putting-the-pieces-together)
+[The Microsoft Identity jigsaw - putting the pieces together](https://rbrayb.github.io/Presentations/The-Microsoft-Identity-jigsaw-putting-the-pieces-together)
 
 ## 2019
 
