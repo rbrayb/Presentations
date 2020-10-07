@@ -7,11 +7,14 @@ I'm a Microsoft MVP (Enterprise mobility) and I'm also the P-TSP for ADFS and Az
 I deliver systems based mainly on the Microsoft Identity stack:
 
 - Azure AD
+- Azure AD B2B / B2X
 - Azure AD B2C (including custom policies)
 - ADFS
 - ADFS WAP
 - ADAL
 - MSAL
+- Microsoft Identity Platform
+- Microsoft.Identity.Web
 - WIF
 - Other stacks when appropriate e.g. identityserver / Auth0
 
