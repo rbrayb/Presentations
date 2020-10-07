@@ -8,6 +8,14 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2020
 
+### Presentation to the Adelaide Microsoft IT Pro Community Meetup 2020
+
+[Azure-AD-B2C-B2B-and-Libraries](https://rbrayb.github.io/Presentations/Azure-AD-B2C-B2B-and-Libraries)
+
+### Presentation to Ignite 2020 - Panel Discussion: Innovation in the new normal: role of developers and communities
+
+[Innovation-in-the-new-normal:role-of-developers-and-communities](https://rbrayb.github.io/Presentations/Ignite-2020-Panel)
+
 ### Presentation to the Christchurch Azure Evening Meetup 2020
 
 [The Microsoft Identity jigsaw - putting the pieces together](https://rbrayb.github.io/Presentations/The-Microsoft-Identity-jigsaw-putting-the-pieces-together)

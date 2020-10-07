@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ADFS-4-with-Device-Profile",
     "\\Auth0-SAML",
     "\\Azure-Active-Directory-for-non-developers",
     "\\Azure-Active-Directory-for-non-developers-PBI",
@@ -9,6 +8,7 @@
     "\\Identity-and-Windows-Azure",
     "\\Microsoft-Identity-Platform",
     "\\Microsoft-Identity-Platform-Pt2",
+    "\\The-Microsoft-Identity-jigsaw-putting-the-pieces-together",
     "\\WebAuthn"
   ],
   "SelectedNode": "\\README.md",
