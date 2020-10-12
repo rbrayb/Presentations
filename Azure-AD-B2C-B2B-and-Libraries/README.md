@@ -6,4 +6,9 @@
 
 [Azure-AD-B2C-B2B-and-Libraries](https://rbrayb.github.io/Presentations/Azure-AD-B2C-B2B-and-Libraries/Azure-AD-B2C-B2B-and-Libraries-Upload.pptx)
 
+### Recording
+
+[Recording of talk](https://www.youtube.com/watch?v=EGyaO-lpdgg)
+
+
 

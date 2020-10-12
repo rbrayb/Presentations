@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Auth0-SAML",
-    "\\Azure-Active-Directory-for-non-developers",
-    "\\Azure-Active-Directory-for-non-developers-PBI",
+    "\\Azure-AD-B2C-B2B-and-Libraries",
     "\\Goodbye-ADFS",
     "\\Identity-and-Windows-Azure",
+    "\\Ignite-2020-Panel",
+    "\\Integrating-OpenID-Connect-&-OAuth2-with-Azure-AD-and-ADFS",
     "\\Microsoft-Identity-Platform",
     "\\Microsoft-Identity-Platform-Pt2",
     "\\The-Microsoft-Identity-jigsaw-putting-the-pieces-together",
     "\\WebAuthn"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\About.md",
   "PreviewInSolutionExplorer": false
 }
