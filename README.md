@@ -8,6 +8,10 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2020
 
+### Presentation to the Wellington Code Camp 2019
+
+[Programming in the dark ages](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2020)
+
 ### Presentation to the Adelaide Microsoft IT Pro Community Meetup 2020
 
 [Azure AD B2C, B2B and Libraries](https://rbrayb.github.io/Presentations/Azure-AD-B2C-B2B-and-Libraries)
