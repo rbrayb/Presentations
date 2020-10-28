@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Azure-AD-B2C-B2B-and-Libraries",
-    "\\Goodbye-ADFS",
-    "\\Identity-and-Windows-Azure",
-    "\\Ignite-2020-Panel",
-    "\\Integrating-OpenID-Connect-&-OAuth2-with-Azure-AD-and-ADFS",
-    "\\Microsoft-Identity-Platform",
     "\\Microsoft-Identity-Platform-Pt2",
     "\\The-Microsoft-Identity-jigsaw-putting-the-pieces-together",
-    "\\WebAuthn"
+    "\\WebAuthn",
+    "\\Wellington-Code-Camp-2019",
+    "\\Wellington-Code-Camp-2020",
+    "\\Wellington-Code-Camp-2020\\MFS",
+    "\\Wellington-Code-Camp-2020\\ProgLang",
+    "\\Wellington-Code-Camp-2020\\Punching",
+    "\\Wellington-Code-Camp-2020\\TapeDrive"
   ],
-  "SelectedNode": "\\Azure-AD-B2C-B2B-and-Libraries\\README.md",
+  "SelectedNode": "\\Wellington-Code-Camp-2020\\README.md",
   "PreviewInSolutionExplorer": false
 }
