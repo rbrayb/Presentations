@@ -8,6 +8,10 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2020
 
+### Presentation to the Auckland Azure UG 2020
+
+[Mini Microsoft Ignite](https://rbrayb.github.io/Presentations/Mini-Ignite-2020/)
+
 ### Presentation to the Wellington Code Camp 2020
 
 [Programming in the dark ages](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2020)
