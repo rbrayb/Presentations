@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Microsoft-Identity-Platform-Pt2",
-    "\\The-Microsoft-Identity-jigsaw-putting-the-pieces-together",
-    "\\WebAuthn",
-    "\\Wellington-Code-Camp-2019",
-    "\\Wellington-Code-Camp-2020",
-    "\\Wellington-Code-Camp-2020\\MFS",
-    "\\Wellington-Code-Camp-2020\\ProgLang",
-    "\\Wellington-Code-Camp-2020\\Punching",
-    "\\Wellington-Code-Camp-2020\\TapeDrive"
+    "\\Mini-Ignite-2020",
+    "\\The-Microsoft-Identity-jigsaw-putting-the-pieces-together"
   ],
-  "SelectedNode": "\\Wellington-Code-Camp-2020\\README.md",
+  "SelectedNode": "\\Mini-Ignite-2020\\README.md",
   "PreviewInSolutionExplorer": false
 }
