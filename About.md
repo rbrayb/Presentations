@@ -40,6 +40,8 @@ Co-organiser of the yearly event in Auckland.
 
 [On Authory](https://authory.com/RoryBraybrook)
 
+You can use the "Contact me" button on the home page to contact me!
+
 ## Twitter
 
 [@rbrayb](https://twitter.com/rbrayb)
