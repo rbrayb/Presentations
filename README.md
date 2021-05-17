@@ -6,6 +6,12 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 [About me](About.md)
 
+## 2021
+
+### Presentation to the Brisbane Azure User Group 2021
+
+[The Microsoft Identity jigsaw - putting the pieces together!](https://rbrayb.github.io/Presentations/The-Microsoft-Identity-jigsaw-putting-the-pieces-together!)
+
 ## 2020
 
 ### Presentation to the Auckland Azure UG 2020
