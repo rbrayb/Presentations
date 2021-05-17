@@ -1,21 +1,25 @@
 # About
 
-I'm an Identity and Access Management Architect working in the Microsoft Identity space.
+I'm an independent Identity and Access Management Architect working in the Microsoft Identity space.
 
-I'm a Microsoft MVP (Enterprise mobility) and I'm also the P-TSP for ADFS and Azure AD for Microsoft NZ in Auckland.
+I live in Auckland, NZ.
+
+I'm also a Microsoft MVP (Enterprise mobility).
 
 I deliver systems based mainly on the Microsoft Identity stack:
 
 - Azure AD
 - Azure AD B2B / B2X
-- Azure AD B2C (including custom policies)
+- Azure AD B2C (built-in and custom policies)
 - ADFS
 - ADFS WAP
 - ADAL
 - MSAL
 - Microsoft Identity Platform
 - Microsoft.Identity.Web
-- WIF
+- WIF (WS Federation)
+- SAML
+- OpenID Connect / OAuth
 - Other stacks when appropriate e.g. identityserver / Auth0
 
 I have an absolute passion for evangelising Identity.
@@ -32,6 +36,10 @@ Co-organiser of the yearly event in Auckland.
 
 [The new control plane](https://medium.com/the-new-control-plane)
 
+## Collated Blogs
+
+[On Authory](https://authory.com/RoryBraybrook)
+
 ## Twitter
 
 [@rbrayb](https://twitter.com/rbrayb)
@@ -39,3 +47,7 @@ Co-organiser of the yearly event in Auckland.
 ## LinkedIn
 
 [Profile](https://www.linkedin.com/in/rory-braybrook-6050a521/)
+
+## Stackoverflow
+
+[Profile](https://stackoverflow.com/users/9922/rbrayb)
