@@ -8,6 +8,10 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2021
 
+### Presentation to the Auckland Azure User Group 2021
+
+[Decentralised Identity](https://rbrayb.github.io/Presentations/Decentralised-Identity)
+
 ### Presentation to the Brisbane Azure User Group 2021
 
 [The Microsoft Identity jigsaw - putting the pieces together!](https://rbrayb.github.io/Presentations/The-Microsoft-Identity-jigsaw-putting-the-pieces-together!)
