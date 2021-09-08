@@ -8,6 +8,10 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2021
 
+### Presentation to the Auckland Lunchtime Azure User Group 2021
+
+[AMA about Azure AD B2C](https://rbrayb.github.io/Presentations/AMA-about-Azure-AD-B2C)
+
 ### Presentation to the Auckland Azure User Group 2021
 
 [Decentralised Identity](https://rbrayb.github.io/Presentations/Decentralised-Identity)
