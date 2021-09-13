@@ -5,3 +5,7 @@
 ### Slides
 
 [AMA about Azure AD B2C](https://rbrayb.github.io/Presentations/AMA-about-Azure-AD-B2C/AMA-about-Azure-AD-B2C.pptx)
+
+### Recording
+
+[Recording]( https://youtu.be/_Fps2NYZARs)
