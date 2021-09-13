@@ -8,4 +8,4 @@
 
 ### Recording
 
-[Recording]( https://youtu.be/_Fps2NYZARs)
+[Recording](https://youtu.be/_Fps2NYZARs)
