@@ -8,6 +8,10 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2021
 
+### Azure AD B2C Podcast 2021
+
+[Need to Know podcast Episode 275](https://rbrayb.github.io/Presentations/Azure-AD-B2C-Podcast)
+
 ### Presentation to the Auckland Lunchtime Azure User Group 2021
 
 [AMA about Azure AD B2C](https://rbrayb.github.io/Presentations/AMA-about-Azure-AD-B2C)
