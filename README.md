@@ -8,6 +8,10 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2021
 
+### Ignite After Party November 2021 
+
+[Ignite After Party November 2021](https://rbrayb.github.io/Presentations/Ignite-After-Party-Nov-2021)
+
 ### Azure AD B2C Podcast 2021
 
 [Need to Know podcast Episode 275](https://rbrayb.github.io/Presentations/Azure-AD-B2C-Podcast)
