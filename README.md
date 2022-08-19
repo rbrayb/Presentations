@@ -6,6 +6,10 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 [About me](About.md)
 
+## 2022
+
+[Integrating AAD B2C with Microsoft Identity libraries](https://rbrayb.github.io/Presentations/Integrating-AAD-B2C-with-Microsoft-Identity-libraries)
+
 ## 2021
 
 ### Ignite After Party November 2021 
