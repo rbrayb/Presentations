@@ -8,6 +8,8 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2022
 
+[Ignite After Party October 2022](https://rbrayb.github.io/Presentations/Ignite-After-Party-Oct-2022)
+
 [Integrating AAD B2C with Microsoft Identity libraries](https://rbrayb.github.io/Presentations/Integrating-AAD-B2C-with-Microsoft-Identity-libraries)
 
 ## 2021
