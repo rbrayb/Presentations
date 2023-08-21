@@ -8,7 +8,9 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2023
 
-[Best of Build June 2023](https://rbrayb.github.io/Presentations/Best-of-Build-2023)
+[Azure All Stars Interview](https://rbrayb.github.io/Presentations/Azure-All-Stars)
+
+[Best of Build](https://rbrayb.github.io/Presentations/Best-of-Build-2023)
 
 ## 2022
 
