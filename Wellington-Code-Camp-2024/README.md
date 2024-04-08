@@ -4,5 +4,5 @@
 
 ### Slides 
 
-[A journey through Turing's paper on the halting problem](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2024)
+[A journey through Turing's paper on the halting problem](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2024/Turing.pptx)
 
