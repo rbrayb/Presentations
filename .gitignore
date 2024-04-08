@@ -8,3 +8,15 @@
 *.sqlite
 .vs/VSWorkspaceState.json
 *.json
+
+.vs/Presentations/v17/.wsuo
+.vs/slnx.sqlite
+*.sqlite
+.vs/VSWorkspaceState.json
+*.json
+
+.vs/Presentations/FileContentIndex
+.vs/slnx.sqlite
+*.sqlite
+.vs/VSWorkspaceState.json
+*.json
