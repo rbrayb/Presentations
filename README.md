@@ -10,8 +10,7 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ### Presentation to the Wellington Code Camp 2024
 
-[Programming in the dark ages](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2020)
-
+[A journey through Turing's paper on the halting problem](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2024)
 
 ## 2023
 
