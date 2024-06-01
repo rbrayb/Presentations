@@ -8,7 +8,7 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2024
 
-### Presentation to the Wellington Code Camp 2024
+[Build After Party 2024](https://rbrayb.github.io/Presentations/Build-After-Party-2024)
 
 [A journey through Turing's paper on the halting problem](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2024)
 
