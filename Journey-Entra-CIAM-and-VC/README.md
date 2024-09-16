@@ -1,6 +1,6 @@
 ## Presentation to the Auckland .NET UG - 2024
 
-[UG](https://www.meetup.com/akl-net/events/303064352/?eventOrigin=your_events)
+[UG](https://www.meetup.com/akl-net/events/303064352/)
 
 ### Slides 
 
