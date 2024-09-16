@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Azure-All-Stars",
     "\\Best-of-Build-2023",
+    "\\Build-After-Party-2024",
     "\\Decentralised-Identity",
     "\\Entra-CIAM-and-VC",
     "\\Goodbye-ADFS",
@@ -11,5 +11,6 @@
     "\\Integrating-OpenID-Connect-\u0026-OAuth2-with-Azure-AD-and-ADFS",
     "\\Wellington-Code-Camp-2024"
   ],
+  "SelectedNode": "\\About.md",
   "PreviewInSolutionExplorer": false
 }

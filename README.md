@@ -8,6 +8,8 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 ## 2024
 
+[Journey Entra CIAM and VC](https://rbrayb.github.io/Presentations/Journey-Entra-CIAM-and-VC)
+
 [Build After Party 2024](https://rbrayb.github.io/Presentations/Build-After-Party-2024)
 
 [A journey through Turing's paper on the halting problem](https://rbrayb.github.io/Presentations/Wellington-Code-Camp-2024)
