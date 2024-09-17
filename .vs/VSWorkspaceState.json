@@ -1,16 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Best-of-Build-2023",
-    "\\Build-After-Party-2024",
-    "\\Decentralised-Identity",
-    "\\Entra-CIAM-and-VC",
-    "\\Goodbye-ADFS",
-    "\\Ignite-After-Party-Oct-2022",
-    "\\Integrating-AAD-B2C-with-Microsoft-Identity-libraries",
-    "\\Integrating-OpenID-Connect-\u0026-OAuth2-with-Azure-AD-and-ADFS",
-    "\\Wellington-Code-Camp-2024"
+    "\\Journey-Entra-CIAM-and-VC"
   ],
-  "SelectedNode": "\\About.md",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
