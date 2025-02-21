@@ -6,6 +6,11 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 [About me](About.md)
 
+## 2025
+
+[A lap around Entra External ID](https://rbrayb.github.io/Presentations/A-lap-around-EEID)
+
+
 ## 2024
 
 [Journey Entra CIAM and VC](https://rbrayb.github.io/Presentations/Journey-Entra-CIAM-and-VC)
