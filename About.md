@@ -6,13 +6,11 @@ I live in Auckland, NZ.
 
 I'm also a Microsoft MVP (Security/I&AM).
 
-I deliver systems based mainly on the Microsoft Identity stack:
+I consult on and deliver systems based mainly on the Microsoft Identity stack:
 
 - Entra ID
-- Entra External ID (B2B/B2X)
+- Entra External ID (B2B/B2C)
 - Azure AD B2C (built-in and custom policies)
-- ADFS
-- ADFS WAP
 - MSAL
 - Microsoft Identity Platform
 - Microsoft.Identity.Web
@@ -20,7 +18,7 @@ I deliver systems based mainly on the Microsoft Identity stack:
 - SAML
 - OpenID Connect / OAuth
 - Verified ID
-- Other stacks when appropriate e.g. identityserver / Auth0
+- Other stacks when appropriate e.g. identityserver / Auth0 / Kinde
 
 I have an absolute passion for evangelising Identity.
 
@@ -40,7 +38,8 @@ Co-organiser of the yearly event usually as part of the UG.
 
 [On Authory](https://authory.com/RoryBraybrook)
 
-You can use the "Contact me" button on the home page to contact me!
+* You can use the "Contact me" button on the home page to contact me!
+* Or use the "Search" button to find something specific.
 
 ## Twitter
 
