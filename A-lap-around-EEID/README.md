@@ -5,6 +5,6 @@
 
 [A lap around EEID](https://rbrayb.github.io/Presentations/A-lap-around-EEID/A-lap-around-EEID.pptx)
 
+### Video
 
-
-
+[A lap around EEID](https://www.youtube.com/watch?v=H0LFFGKqCuQ)
