@@ -10,6 +10,8 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 [A lap around Entra External ID](https://rbrayb.github.io/Presentations/A-lap-around-EEID)
 
+[Best of Build](https://rbrayb.github.io/Presentations/Best-of-Build-2025)
+
 [MSA Build your brand](https://rbrayb.github.io/Presentations/MSA-Build-your-brand)
 
 
