@@ -14,7 +14,7 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 [MSA Build your brand](https://rbrayb.github.io/Presentations/MSA-Build-your-brand)
 
-[.Net Conf 2025 Passkeys](https://rbrayb.github.io/Presentations/.NET-Conf-2025)
+[.Net Conf 2025 Passkeys](https://rbrayb.github.io/Presentations/NET-Conf-2025)
 
 ## 2024
 

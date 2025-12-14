@@ -4,7 +4,7 @@
 
 ### Slides 
 
-[.Net Conf](https://rbrayb.github.io/Presentations/.NET-Conf-2025/.NET-Conf-2025-Passkeys.pptx)
+[.Net Conf](https://rbrayb.github.io/Presentations/NET-Conf-2025/NET-Conf-2025-Passkeys.pptx)
 
 
 
