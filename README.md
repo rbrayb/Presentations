@@ -6,6 +6,10 @@ They are hosted on [Github pages](https://rbrayb.github.io/Presentations/)
 
 [About me](About.md)
 
+## 2026
+
+[B2C To EEID Migration Tool](https://rbrayb.github.io/Presentations/B2C-To-EEID-Migration-Tool)
+
 ## 2025
 
 [A lap around Entra External ID](https://rbrayb.github.io/Presentations/A-lap-around-EEID)
