@@ -6,6 +6,9 @@
 
 [B2C To EEID Migration Tool](https://rbrayb.github.io/Presentations/B2C-To-EEID-Migration-Tool/B2C-To-EEID-Migration.pptx)
 
+[B2C To EEID Migration Tool Full](https://rbrayb.github.io/Presentations/B2C-To-EEID-Migration-Tool/B2C-To-EEID-Migration-Full.pptx)
+
+
 
 
 
